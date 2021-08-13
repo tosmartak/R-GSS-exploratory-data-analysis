@@ -1,5 +1,5 @@
 # [General Social Survey Statistical Analysis Using R](https://htmlpreview.github.io/?https://github.com/tosmartak/R-GSS-exploratory-data-analysis/blob/R-GSS-exploratory-data-analysis/stat_inf_project.html)
-This work is an exploratory data analysis on General Social Survey data, showing inferential tests and visualization using the R language.
+This work is an exploratory data analysis on General Social Survey data, with statistical inferences and visualization using the R language.
 
 ## About the Project
 The GSS survey is an in-person interview conducted face-to-face by NORC at the University of Chicago, with a target population of adults (18+) living in United States households. Respondents are randomly sampled from a mix of urban, suburban, and rural geographic areas, and participation is strictly voluntary.
